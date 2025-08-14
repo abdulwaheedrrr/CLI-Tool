@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Buy milk",
+    "done": true
+  },
+  {
+    "task": "Book dentist appointment",
+    "done": false
+  },
+  {
+    "task": "Record LinkedIn demo video",
+    "done": false
+  }
+]
