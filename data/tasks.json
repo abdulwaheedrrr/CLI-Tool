@@ -10,5 +10,45 @@
   {
     "task": "Record LinkedIn demo video",
     "done": false
+  },
+  {
+    "task": "Finish LinkedIn project description",
+    "done": false,
+    "due_date": "2025-08-21"
+  },
+  {
+    "id": 1,
+    "task": "Finish LinkedIn project description",
+    "status": "done",
+    "priority": "medium",
+    "due": null
+  },
+  {
+    "id": 2,
+    "task": "to finish project report",
+    "status": "pending",
+    "priority": "medium",
+    "due": null
+  },
+  {
+    "id": 3,
+    "task": "to meet ali",
+    "status": "pending",
+    "priority": "medium",
+    "due": null
+  },
+  {
+    "id": 4,
+    "task": "to go to school",
+    "status": "pending",
+    "priority": "medium",
+    "due": null
+  },
+  {
+    "id": 5,
+    "task": "to buy a pen",
+    "status": "pending",
+    "priority": "medium",
+    "due": null
   }
 ]
